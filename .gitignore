@@ -1,0 +1,7 @@
+.venv/
+ComfyUI/
+output/
+__pycache__/
+*.log
+*.mp4
+*.pyc
